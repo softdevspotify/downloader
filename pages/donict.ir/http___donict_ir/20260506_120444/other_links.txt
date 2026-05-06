@@ -1,0 +1,2 @@
+/cdn-cgi/assets/css/static-pages-2.6.0.css
+/cdn-cgi/assets/js/main.js
